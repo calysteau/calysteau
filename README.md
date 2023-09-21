@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @calysteau
-- 👀 I’m interested in C++, mapping, 3D, imagery
+- 👀 I’m interested in C++, C#, GIS, mapping, 3D, imagery
 - 💞️ I’m looking to collaborate on GIS and earth observation projects
 - 📫 How to reach me contact@calysteau.fr
 
